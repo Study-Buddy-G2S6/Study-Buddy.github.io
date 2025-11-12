@@ -64,7 +64,7 @@ Admins oversee behavior and handle reports of inappropriate use.
 - Bootstrap + React for the web application.
 - PostgreSQL for user and session data.
 - FullCalendar.js for the session calendar UI.
-- Twilio API or Slack integration for notifications.
+- Slack integration for notifications.
 
 ### Key Collections
 - **Profiles** — User info, photo, courses (sensei/grasshopper).
