@@ -18,6 +18,9 @@
 ## Team Contract
 <a href="https://docs.google.com/document/d/1kHJIk9nhjPRMPwMGNicvlQ-7Rr_LjTrXq4lzIb7Tw2M/edit?usp=sharing">View Team Contract</a>
 
+## Deployment
+<a href="https://study-buddy-flax-ten.vercel.app/">View Current Website</a>
+
 ---
 
 ## Overview
